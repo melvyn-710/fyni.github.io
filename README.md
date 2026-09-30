@@ -1,8 +1,3 @@
-# fyni.github.io
----
-layout: null
-title: Fyni | Portfolio
----
 <!DOCTYPE html>
 <html lang="en" data-theme="dark">
 <head>
